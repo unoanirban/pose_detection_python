@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 
-# Initialize MediaPipe pose class and drawing utilities
+# Initialize mediaPipe pose class and drawing utilities
 mp_pose = mp.solutions.pose
 mp_drawing = mp.solutions.drawing_utils
 
