@@ -2,7 +2,7 @@
 
 ![Screenshot 2025-01-27 203824](https://github.com/user-attachments/assets/7fde7330-30a0-47f6-a777-8f50b8e86e80)
 
-📌 Description
+📌 Description:
 This project implements real-time pose detection using Python. It uses OpenCV and Mediapipe to detect and track human body landmarks, making it useful for applications like fitness tracking, gesture control, and motion analysis.
 
 🔥 Features
